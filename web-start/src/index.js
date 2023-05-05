@@ -15,8 +15,6 @@
  */
 "use strict";
 
-require("dotenv").config();
-
 import { initializeApp } from "firebase/app";
 import {
   getAuth,
